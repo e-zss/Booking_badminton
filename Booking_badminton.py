@@ -183,8 +183,8 @@ def mmain():
     # 测试用例
     reserverdic1 = {
         "idpwd": {
-            'ssid': "220202864",
-            'pwd': "zhang66600"
+            'ssid': "账号",
+            'pwd': "密码"
         },
         "info": {
             'Ball': '4',  # 1是乒乓球，4是羽毛球
